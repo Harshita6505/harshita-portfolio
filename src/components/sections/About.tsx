@@ -113,7 +113,7 @@ export default function About() {
             className="flex flex-col items-center justify-center relative h-full pt-10 mt-10 md:mt-0"
           >
             <TiltCard>
-              <div className="group relative z-10 w-full max-w-[320px] aspect-[4/5] md:h-[500px] md:w-80 overflow-hidden rounded-[40px] border border-white/10 bg-[#050511]/50 backdrop-blur-sm shadow-[0_0_50px_rgba(139,92,246,0.3)]">
+              <div className="group relative z-10 w-72 h-[400px] sm:w-80 sm:h-[450px] md:h-[500px] md:w-80 overflow-hidden rounded-[40px] border border-white/10 bg-[#050511]/50 backdrop-blur-sm shadow-[0_0_50px_rgba(139,92,246,0.3)]">
               <Image 
                 src="/avatar-new.png" 
                 alt="My Avatar" 
